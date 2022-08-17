@@ -1,0 +1,17 @@
+{
+    "name": "foad/firstpack",
+    "autoload": {
+        "psr-4": {
+            "Foad\\FirstPack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "foad jalali",
+            "email": "jalali.foad96@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
